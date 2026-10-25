@@ -1,0 +1,51 @@
+JusWrk Montage Studio
+
+GET STARTED
+Open index.html in a current Chrome, Edge, Firefox or Safari browser.
+No installation or account is needed. The editor also runs on GitHub Pages.
+
+1. Drop in up to 24 photos, or choose Browse.
+2. Reorder with the up and down arrows. Click a photo to adjust its crop.
+3. Pick a layout, output dimensions, JPG / PNG / WebP and image quality.
+4. Add an optional title and individual carousel captions.
+5. Download montage creates one finished image.
+6. Export carousel creates one self-contained HTML slideshow.
+
+PRIVACY
+Editing happens entirely in your browser. Photos are not uploaded, and are not
+saved after closing or refreshing the editor. Download before closing the tab.
+Original files are not changed. Anyone you share an exported carousel file with
+can view its included photos. They become public if you publish that file.
+
+PUT THE EDITOR ON YOUR EXISTING GITHUB PAGES SITE
+Upload montage/index.html from this package into the root branch of
+JusWrk/juswrk.github.io. Keep the folder name montage. After GitHub publishes it,
+the address will be https://juswrk.github.io/montage/.
+No changes to your existing homepage or services page are needed.
+
+PUBLISH AN EXPORTED CAROUSEL
+Rename the exported carousel file to index.html and put it in its own folder,
+such as garden-project. Upload that folder to your GitHub Pages repository.
+The carousel will be at https://juswrk.github.io/garden-project/.
+You can also embed it into an existing webpage with:
+
+<iframe src="/garden-project/" title="Garden project photos"
+        width="100%" height="750" style="border:0" loading="lazy"></iframe>
+
+OUTPUT CHOICES
+Landscape 1920 x 1080; square 1080 x 1080; portrait 1080 x 1350;
+story 1080 x 1920; banner 2400 x 800; 4K 3840 x 2160;
+custom dimensions between 240 and 4096 pixels on each side.
+For a carousel, the selected dimensions and image format apply to every slide.
+PNG is lossless. JPG and WebP have quality settings. Higher-resolution exports
+take more memory and create larger files. Small originals cannot gain detail
+when enlarged. HEIC, SVG, GIF and video are not supported inputs.
+
+CAROUSEL FEATURES
+Arrows, keyboard navigation, touch swipe, optional captions and auto-advance.
+Auto-advance pauses on hover/focus and offers a pause control. It starts paused
+for viewers who request reduced motion.
+
+PUBLICATION STATUS
+Prepared locally. It has not been uploaded or published to GitHub.
+The connected GitHub account currently refuses write access.
