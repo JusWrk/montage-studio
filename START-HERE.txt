@@ -8,8 +8,11 @@ No installation or account is needed. The editor also runs on GitHub Pages.
 2. Reorder with the up and down arrows. Click a photo to adjust its crop.
 3. Pick a layout, output dimensions, JPG / PNG / WebP and image quality.
 4. Add an optional title and individual carousel captions.
-5. Download montage creates one finished image.
-6. Export carousel creates one self-contained HTML slideshow.
+5. Optionally enable Job-card footer and add a heading, description and contact
+   details. It fits within your selected output dimensions and appears on every
+   carousel slide as well as the montage. Choose a footer colour to suit.
+6. Download montage creates one finished image.
+7. Export carousel creates one self-contained HTML slideshow.
 
 PRIVACY
 Editing happens entirely in your browser. Photos are not uploaded, and are not
